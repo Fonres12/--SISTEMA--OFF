@@ -1,0 +1,2 @@
+# --SISTEMA--OFF
+TODOS OFF
